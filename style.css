@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(255, 253, 230);
+	font-family: Arial, Arial, Helvetica, sans-serif;
+	color: gray;
+}
+
+h1{
+	color: gray;
+	text-decoration: underline;
+}
+h2{
+	color: brown;
+	text-decoration: overline;
+}
+img{
+	height: 300px
+}
